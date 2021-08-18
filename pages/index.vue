@@ -49,9 +49,9 @@
                     PekerjaHarian adalah sebuah platform yang menghubungkan Pekerja Harian dan Pengguna jasa Pekerja Harian untuk dapat saling memberikan manfaat.
                 </h2>
                 <div class="flex items-center justify-center mt-4">
-                    <a href="#" class="uppercase py-2 px-4 bg-green-700 border-2 rounded border-transparent text-white text-md mr-4 hover:bg-green-500">
+                    <!-- <a href="#" class="uppercase py-2 px-4 bg-green-700 border-2 rounded border-transparent text-white text-md mr-4 hover:bg-green-500">
                         Get started
-                    </a>
+                    </a> -->
                     <!-- <a href="#" class="uppercase py-2 px-4 bg-transparent border-2 border-gray-800 text-gray-800 dark:text-white hover:bg-gray-800 hover:text-white text-md">
                         Documentation
                     </a> -->
